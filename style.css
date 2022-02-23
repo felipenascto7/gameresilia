@@ -7,7 +7,7 @@ body {
     position: relative;
     height: 100vh;
     width: 100vw;
-    background: url('capa02.1.jpg');
+    background: url('./img/capa02.1.jpg');
     background-size: cover;
 }
 

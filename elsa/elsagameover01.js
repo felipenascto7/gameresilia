@@ -1,3 +1,3 @@
 function restart() {
-    location.replace("../index.html");
+    location.replace("../personagens.html");
 }
